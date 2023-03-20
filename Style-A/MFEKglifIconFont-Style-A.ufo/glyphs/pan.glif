@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pan" format="2">
+	<advance width="800" height="700"/>
+	<unicode hex="F002"/>
+	<outline>
+		<contour>
+			<point x="297" y="0" type="line"/>
+			<point x="579" y="-2" type="line"/>
+			<point x="582" y="127" type="line"/>
+			<point x="654" y="286" type="line"/>
+			<point x="686" y="476" type="line"/>
+			<point x="686" y="651" type="line"/>
+			<point x="670" y="666" type="line"/>
+			<point x="638" y="666" type="line"/>
+			<point x="622" y="651" type="line"/>
+			<point x="614" y="532" type="line"/>
+			<point x="590" y="428" type="line"/>
+			<point x="574" y="436" type="line"/>
+			<point x="582" y="587" type="line"/>
+			<point x="574" y="746" type="line"/>
+			<point x="559" y="762" type="line"/>
+			<point x="519" y="762" type="line"/>
+			<point x="503" y="746" type="line"/>
+			<point x="503" y="619" type="line"/>
+			<point x="487" y="460" type="line"/>
+			<point x="471" y="460" type="line"/>
+			<point x="455" y="770" type="line"/>
+			<point x="432" y="793" type="line"/>
+			<point x="400" y="793" type="line"/>
+			<point x="376" y="770" type="line"/>
+			<point x="384" y="452" type="line"/>
+			<point x="368" y="452" type="line"/>
+			<point x="336" y="714" type="line"/>
+			<point x="321" y="730" type="line"/>
+			<point x="281" y="730" type="line"/>
+			<point x="265" y="714" type="line"/>
+			<point x="273" y="444" type="line"/>
+			<point x="265" y="357" type="line"/>
+			<point x="249" y="341" type="line"/>
+			<point x="197" y="379" type="line"/>
+			<point x="146" y="487" type="line"/>
+			<point x="114" y="503" type="line"/>
+			<point x="75" y="484" type="line"/>
+			<point x="122" y="270" type="line"/>
+			<point x="297" y="95" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-03-20 02:14:54 +0000</string>
+		</dict>
+	</lib>
+</glyph>
