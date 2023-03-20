@@ -5,6 +5,8 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>/pan</string>
+		<string>/select</string>
+		<string>/pen</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
