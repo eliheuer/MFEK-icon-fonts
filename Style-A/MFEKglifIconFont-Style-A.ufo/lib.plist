@@ -4,12 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/shapes</string>
-		<string>/xor</string>
-		<string>/select</string>
 		<string>/pan</string>
-		<string>/measure</string>
-		<string>/anchor</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
